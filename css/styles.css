@@ -1,0 +1,48 @@
+.top-container{
+  background-color: #E4F9F5;
+  width: 100%;
+  height: 300px;
+
+  }
+
+.middle-container{
+  background-color: grey;
+  width: 100%;
+  height: 300px;
+
+}
+
+.bottom-container{
+  background-color:red;
+  width: 100%;
+  height: 200px;
+
+}
+
+.layer-container{
+  background-color: green;
+  width: 100%;
+  height: 100px;
+
+}
+
+.box-container{
+  background-color: yellow;
+  width: 100%;
+  height: 300px;
+
+}
+
+.box1-container{
+  background-color: navy;
+  width: 100%;
+  height: 200px;
+
+}
+
+.form-container{
+  background-color: maroon;
+  width: 100%;
+  height: 200px;
+
+}
